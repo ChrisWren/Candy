@@ -64,6 +64,7 @@ code {
 pre {
   font-family: $codeFont;
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .highlight {
